@@ -1,6 +1,6 @@
 Hello from Silicon Valley!
 
-I am Tatiana and I an orange soul (kind of white crow).
+I am Tatiana and I am an orange soul (kind of white crow).
 I know a lot of:
 - ✨ HTML, 
 - ✨ CSS, 
