@@ -1,7 +1,7 @@
 Hello from Silicon Valley!
 
 I am Tatiana and I an orange soul (kind of white crow).
-I know king of:
+I know a lot of:
 - ✨ HTML, 
 - ✨ CSS, 
 - ✨ JavaScript, 
